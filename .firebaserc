@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "apexnote": {
+      "hosting": {
+        "www": [
+          "apexnote"
+        ]
+      }
+    }
+  }
+}
